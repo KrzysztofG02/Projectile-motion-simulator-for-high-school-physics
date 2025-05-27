@@ -51,6 +51,7 @@ Precision determines the numeric accuracy of the recorded values. The available 
 for the variables).
 Next to the text fields are two buttons: "Export to csv [E]" and "Screenshot [I]".
 The first button creates a file named "measurements.csv", saving the data using the specified numbers of time samples and precision.
+
 ![measurements](https://github.com/user-attachments/assets/3c7d2fbf-fbcf-4331-b010-b25db65ff90a)
 
 The second button captures a screenshot of the program window and saves it to the "screenshots" directory, naming the file with the current date, time, and a unique numeric 
@@ -87,6 +88,7 @@ so that the simulation remains clearly visible at all times.
 
 At the bottom-left segment of the window, there are buttons that control the simulation: "Start [S]", "Reset [R]", and "Pause [P]". These do not need to be clicked manually, 
 as the corresponding keyboard shortcuts can be used instead.
+
 ![no-color-rectangle](https://github.com/user-attachments/assets/c904f51b-a29e-4ee6-a4f0-1ba5e6edab8f)
 
 ![color-rectangle](https://github.com/user-attachments/assets/ab5075a6-4a0c-4e70-a97c-3aa84c118663)
